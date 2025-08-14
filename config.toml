@@ -1,0 +1,6 @@
+[theme]
+primaryColor="#FFA500"  # Laranja para os elementos interativos
+backgroundColor="#0E1117"  # Cor de fundo preta/cinza escuro
+secondaryBackgroundColor="#1C1F26"  # Cor de fundo para a barra lateral
+textColor="#FFFFFF"  # Cor do texto principal
+font="sans serif"
